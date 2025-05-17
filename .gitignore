@@ -1,0 +1,8 @@
+.venv
+.env
+__pycache__/
+*.pyc
+.flake8
+.mypy_cache/
+mypy.ini
+*.txt

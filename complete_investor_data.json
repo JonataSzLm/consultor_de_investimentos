@@ -1,0 +1,105 @@
+{
+    "profile": {
+        "perfil_investidor": {
+            "nome": "Luis",
+            "faixa_etaria": "80+",
+            "situacao_financeira": "Poupando",
+            "valor_disponivel_faixa": "Mais de R$ 5.000",
+            "objetivo_principal": "Adquirir jogos digitais",
+            "horizonte_investimento": "Longo prazo",
+            "tolerancia_risco": "Conservador",
+            "conhecimento_previo": "Iniciante",
+            "outras_informacoes": "Gasta muito com damas da noite"
+        }
+    },
+    "analyst_response_a2": "```json\n{\n  \"analise_mercado_perfil\": {\n    \"resumo_analise\": \"Considerando o perfil conservador, objetivo de longo prazo e a necessidade de liquidez para gastos pessoais, a alocação deve priorizar segurança e alguma liquidez, mesmo em investimentos de longo prazo. Cenário de juros estáveis sugere busca por oportunidades de renda fixa indexadas à inflação para preservar o poder de compra.\",\n    \"tipos_produtos_adequados\": [\n      {\n        \"tipo\": \"Tesouro Selic\",\n        \"relevancia\": \"Baixo risco, alta liquidez, ideal para reserva de oportunidade e cobrir despesas de curto prazo. Permite resgates a qualquer momento.\"\n      },\n      {\n        \"tipo\": \"CDBs de liquidez diária\",\n        \"relevancia\": \"Similar ao Tesouro Selic em termos de segurança e liquidez, pode oferecer taxas levemente superiores.\"\n      },\n      {\n        \"tipo\": \"Fundos de Renda Fixa Conservadores\",\n        \"relevancia\": \"Diversificação em renda fixa com gestão profissional, buscando retornos consistentes com baixo risco. Optar por fundos com alta liquidez.\"\n      },\n       {\n        \"tipo\": \"Tesouro IPCA+\",\n        \"relevancia\": \"Proteção contra a inflação com rendimento acima da mesma, ideal para preservar o poder de compra no longo prazo.  Considerar o prazo de vencimento e liquidez.\"\n      }\n    ],\n    \"fatores_considerados\": {\n      \"juros\": \"Estáveis\",\n      \"inflacao\": \"Moderada\",\n      \"tendencia_geral\": \"Estável\"\n    }\n  },\n  \"perfil_original\": {\n    \"perfil_investidor\": {\n      \"nome\": \"Luis\",\n      \"faixa_etaria\": \"80+\",\n      \"situacao_financeira\": \"Poupando\",\n      \"valor_disponivel_faixa\": \"Mais de R$ 5.000\",\n      \"objetivo_principal\": \"Adquirir jogos digitais\",\n      \"horizonte_investimento\": \"Longo prazo\",\n      \"tolerancia_risco\": \"Conservador\",\n      \"conhecimento_previo\": \"Iniciante\",\n      \"outras_informacoes\": \"Gasta muito com damas da noite\"\n    }\n  }\n}\n```\n",
+    "suggestor_response_a3": "```json\n{\n  \"sugestao_portfolio\": {\n    \"descricao_geral\": \"Um portfólio conservador, focado na segurança e liquidez, adequado para um investidor com perfil conservador e objetivo de longo prazo, mas com necessidade de acesso ao capital.\",\n    \"alocacao_ativos\": [\n      {\n        \"tipo_ativo\": \"Tesouro Selic\",\n        \"porcentagem\": 40,\n        \"justificativa_breve\": \"Alta liquidez e baixo risco para despesas de curto prazo e oportunidades.\"\n      },\n      {\n        \"tipo_ativo\": \"CDBs de liquidez diária\",\n        \"porcentagem\": 30,\n        \"justificativa_breve\": \"Segurança similar ao Tesouro Selic, com potencial de rendimento ligeiramente superior.\"\n      },\n      {\n        \"tipo_ativo\": \"Tesouro IPCA+\",\n        \"porcentagem\": 30,\n        \"justificativa_breve\": \"Proteção contra a inflação, garantindo a preservação do poder de compra no longo prazo.\"\n      }\n    ],\n    \"justificativa_completa\": \"A alocação proposta visa atender às necessidades de um investidor conservador com objetivo de longo prazo, mas que também precisa de liquidez para gastos ocasionais. O Tesouro Selic e os CDBs de liquidez diária oferecem a segurança e a liquidez necessárias para cobrir despesas de curto prazo e aproveitar oportunidades. O Tesouro IPCA+ protege o poder de compra no longo prazo, garantindo que o investimento não seja corroído pela inflação. Dada a idade do investidor, a segurança e a liquidez são prioridades.\",\n    \"exemplos_produtos\": [\n      {\n        \"tipo_ativo\": \"Tesouro Selic\",\n        \"exemplo\": \"Tesouro Selic 2029\",\n        \"nota\": \"Verificar taxas e custos operacionais da corretora.\"\n      },\n      {\n        \"tipo_ativo\": \"CDBs de liquidez diária\",\n        \"exemplo\": \"CDBs de liquidez diária de bancos de primeira linha\",\n        \"nota\": \"Verificar a reputação do banco e o rating de crédito.\"\n      },\n      {\n        \"tipo_ativo\": \"Tesouro IPCA+\",\n        \"exemplo\": \"Tesouro IPCA+ 2045\",\n        \"nota\": \"Analisar o prazo de vencimento e o fluxo de caixa do título.\"\n      }\n    ],\n    \"consideracoes_adicionais\": [\n      \"Acompanhar periodicamente a rentabilidade dos investimentos e a taxa de inflação.\",\n      \"Rebalancear o portfólio anualmente para manter a alocação desejada.\",\n      \"Considerar a diversificação em outros ativos de renda fixa, como CRIs e CRAs, para buscar retornos ligeiramente superiores, mantendo a segurança.\",\n      \"É importante evitar decisões de investimento baseadas em necessidades de curto prazo, buscando alternativas para equilibrar os gastos.\"\n    ]\n  },\n  \"perfil_original\": {\n    \"perfil_investidor\": {\n      \"nome\": \"Luis\",\n      \"faixa_etaria\": \"80+\",\n      \"situacao_financeira\": \"Poupando\",\n      \"valor_disponivel_faixa\": \"Mais de R$ 5.000\",\n      \"objetivo_principal\": \"Adquirir jogos digitais\",\n      \"horizonte_investimento\": \"Longo prazo\",\n      \"tolerancia_risco\": \"Conservador\",\n      \"conhecimento_previo\": \"Iniciante\",\n      \"outras_informacoes\": \"Gasta muito com damas da noite\"\n    }\n  },\n   \"analise_original\": {\n    \"analise_mercado_perfil\": {\n      \"resumo_analise\": \"Considerando o perfil conservador, objetivo de longo prazo e a necessidade de liquidez para gastos pessoais, a alocação deve priorizar segurança e alguma liquidez, mesmo em investimentos de longo prazo. Cenário de juros estáveis sugere busca por oportunidades de renda fixa indexadas à inflação para preservar o poder de compra.\",\n      \"tipos_produtos_adequados\": [\n        {\n          \"tipo\": \"Tesouro Selic\",\n          \"relevancia\": \"Baixo risco, alta liquidez, ideal para reserva de oportunidade e cobrir despesas de curto prazo. Permite resgates a qualquer momento.\"\n        },\n        {\n          \"tipo\": \"CDBs de liquidez diária\",\n          \"relevancia\": \"Similar ao Tesouro Selic em termos de segurança e liquidez, pode oferecer taxas levemente superiores.\"\n        },\n        {\n          \"tipo\": \"Fundos de Renda Fixa Conservadores\",\n          \"relevancia\": \"Diversificação em renda fixa com gestão profissional, buscando retornos consistentes com baixo risco. Optar por fundos com alta liquidez.\"\n        },\n        {\n          \"tipo\": \"Tesouro IPCA+\",\n          \"relevancia\": \"Proteção contra a inflação com rendimento acima da mesma, ideal para preservar o poder de compra no longo prazo.  Considerar o prazo de vencimento e liquidez.\"\n        }\n      ],\n      \"fatores_considerados\": {\n        \"juros\": \"Estáveis\",\n        \"inflacao\": \"Moderada\",\n        \"tendencia_geral\": \"Estável\"\n      }\n    }\n  }\n}\n```\n",
+    "suggestion_json_a3": {
+        "sugestao_portfolio": {
+            "descricao_geral": "Um portfólio conservador, focado na segurança e liquidez, adequado para um investidor com perfil conservador e objetivo de longo prazo, mas com necessidade de acesso ao capital.",
+            "alocacao_ativos": [
+                {
+                    "tipo_ativo": "Tesouro Selic",
+                    "porcentagem": 40,
+                    "justificativa_breve": "Alta liquidez e baixo risco para despesas de curto prazo e oportunidades."
+                },
+                {
+                    "tipo_ativo": "CDBs de liquidez diária",
+                    "porcentagem": 30,
+                    "justificativa_breve": "Segurança similar ao Tesouro Selic, com potencial de rendimento ligeiramente superior."
+                },
+                {
+                    "tipo_ativo": "Tesouro IPCA+",
+                    "porcentagem": 30,
+                    "justificativa_breve": "Proteção contra a inflação, garantindo a preservação do poder de compra no longo prazo."
+                }
+            ],
+            "justificativa_completa": "A alocação proposta visa atender às necessidades de um investidor conservador com objetivo de longo prazo, mas que também precisa de liquidez para gastos ocasionais. O Tesouro Selic e os CDBs de liquidez diária oferecem a segurança e a liquidez necessárias para cobrir despesas de curto prazo e aproveitar oportunidades. O Tesouro IPCA+ protege o poder de compra no longo prazo, garantindo que o investimento não seja corroído pela inflação. Dada a idade do investidor, a segurança e a liquidez são prioridades.",
+            "exemplos_produtos": [
+                {
+                    "tipo_ativo": "Tesouro Selic",
+                    "exemplo": "Tesouro Selic 2029",
+                    "nota": "Verificar taxas e custos operacionais da corretora."
+                },
+                {
+                    "tipo_ativo": "CDBs de liquidez diária",
+                    "exemplo": "CDBs de liquidez diária de bancos de primeira linha",
+                    "nota": "Verificar a reputação do banco e o rating de crédito."
+                },
+                {
+                    "tipo_ativo": "Tesouro IPCA+",
+                    "exemplo": "Tesouro IPCA+ 2045",
+                    "nota": "Analisar o prazo de vencimento e o fluxo de caixa do título."
+                }
+            ],
+            "consideracoes_adicionais": [
+                "Acompanhar periodicamente a rentabilidade dos investimentos e a taxa de inflação.",
+                "Rebalancear o portfólio anualmente para manter a alocação desejada.",
+                "Considerar a diversificação em outros ativos de renda fixa, como CRIs e CRAs, para buscar retornos ligeiramente superiores, mantendo a segurança.",
+                "É importante evitar decisões de investimento baseadas em necessidades de curto prazo, buscando alternativas para equilibrar os gastos."
+            ]
+        },
+        "perfil_original": {
+            "perfil_investidor": {
+                "nome": "Luis",
+                "faixa_etaria": "80+",
+                "situacao_financeira": "Poupando",
+                "valor_disponivel_faixa": "Mais de R$ 5.000",
+                "objetivo_principal": "Adquirir jogos digitais",
+                "horizonte_investimento": "Longo prazo",
+                "tolerancia_risco": "Conservador",
+                "conhecimento_previo": "Iniciante",
+                "outras_informacoes": "Gasta muito com damas da noite"
+            }
+        },
+        "analise_original": {
+            "analise_mercado_perfil": {
+                "resumo_analise": "Considerando o perfil conservador, objetivo de longo prazo e a necessidade de liquidez para gastos pessoais, a alocação deve priorizar segurança e alguma liquidez, mesmo em investimentos de longo prazo. Cenário de juros estáveis sugere busca por oportunidades de renda fixa indexadas à inflação para preservar o poder de compra.",
+                "tipos_produtos_adequados": [
+                    {
+                        "tipo": "Tesouro Selic",
+                        "relevancia": "Baixo risco, alta liquidez, ideal para reserva de oportunidade e cobrir despesas de curto prazo. Permite resgates a qualquer momento."
+                    },
+                    {
+                        "tipo": "CDBs de liquidez diária",
+                        "relevancia": "Similar ao Tesouro Selic em termos de segurança e liquidez, pode oferecer taxas levemente superiores."
+                    },
+                    {
+                        "tipo": "Fundos de Renda Fixa Conservadores",
+                        "relevancia": "Diversificação em renda fixa com gestão profissional, buscando retornos consistentes com baixo risco. Optar por fundos com alta liquidez."
+                    },
+                    {
+                        "tipo": "Tesouro IPCA+",
+                        "relevancia": "Proteção contra a inflação com rendimento acima da mesma, ideal para preservar o poder de compra no longo prazo.  Considerar o prazo de vencimento e liquidez."
+                    }
+                ],
+                "fatores_considerados": {
+                    "juros": "Estáveis",
+                    "inflacao": "Moderada",
+                    "tendencia_geral": "Estável"
+                }
+            }
+        }
+    },
+    "detailed_analysis_response_a4": "Olá, Luis! Tudo bem? 😊\n\nCom base nas informações que você me forneceu, preparei uma sugestão de investimento pensando especialmente em você, que tem um perfil conservador e quer realizar o sonho de adquirir jogos digitais no longo prazo. Veja só:\n\n**Descrição Geral:**\nEste é um portfólio conservador, o que significa que ele prioriza a segurança do seu dinheiro e a facilidade de acesso a ele, caso você precise. É ideal para você que tem um objetivo de longo prazo, mas também quer ter a tranquilidade de poder usar parte do dinheiro quando quiser.\n\n**Como alocar seu dinheiro:**\n\n*   **40% em Tesouro Selic:** Essa parte é como uma reserva de emergência, super segura e com alta liquidez. Você pode resgatar o dinheiro a qualquer momento, ideal para despesas inesperadas ou para aproveitar alguma oportunidade.\n*   **30% em CDBs de liquidez diária:** Assim como o Tesouro Selic, os CDBs de liquidez diária também são muito seguros e permitem que você retire o dinheiro quando precisar. A vantagem é que, em alguns casos, eles podem render um pouquinho mais que o Tesouro Selic.\n*   **30% em Tesouro IPCA+:** Essa parte do investimento é para proteger seu dinheiro da inflação, que é o aumento dos preços. Assim, você garante que o seu poder de compra se mantenha ao longo do tempo, e que você consiga comprar seus jogos digitais no futuro sem perder dinheiro.\n\n**Por que essa divisão?**\n\nEssa divisão foi pensada para o seu perfil conservador, Luis. Priorizamos a segurança e a liquidez, para que você não corra riscos desnecessários e possa acessar seu dinheiro quando precisar. Ao mesmo tempo, o Tesouro IPCA+ garante que seu dinheiro não perca valor com a inflação no longo prazo, te ajudando a realizar seu objetivo de adquirir jogos digitais.\n\n**Exemplos de produtos:**\n\n*   **Tesouro Selic:** Uma opção é o Tesouro Selic 2029. Antes de investir, é importante verificar as taxas e os custos da corretora.\n*   **CDBs de liquidez diária:** Procure por CDBs de liquidez diária de bancos grandes e confiáveis. Verifique sempre a reputação do banco antes de investir.\n*   **Tesouro IPCA+:** Uma opção é o Tesouro IPCA+ 2045. É importante analisar o prazo de vencimento desse título.\n\n**Outras coisas importantes para lembrar:**\n\n*   **Acompanhe seus investimentos:** É importante verificar de tempos em tempos como seus investimentos estão rendendo e se a inflação está afetando seu poder de compra.\n*   **Rebalanceie sua carteira:** Uma vez por ano, revise sua divisão de investimentos e ajuste-a se necessário, para manter a alocação que definimos juntos.\n*   **Pense bem antes de gastar:** Evite usar o dinheiro dos seus investimentos para gastos de curto prazo. Se precisar, busque outras alternativas para equilibrar suas finanças.\n\nE aí, Luis, o que achou dessa sugestão? Ficou alguma dúvida sobre algum desses investimentos ou sobre como tudo isso funciona? Estou aqui para te ajudar a entender tudo direitinho! 😉\n\n"
+}
