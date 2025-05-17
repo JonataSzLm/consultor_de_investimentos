@@ -5,4 +5,4 @@ __pycache__/
 .flake8
 .mypy_cache/
 mypy.ini
-*.txt
+complete_investor_data.json
