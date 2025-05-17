@@ -10,7 +10,7 @@ class AgentChatGUI:
         
         # === Definindo o Tamanho da Janela ===
         master.geometry("1100x500") 
-        master.title("Orquestrador IA de Investimentos 🤖")
+        master.title("Warren Bot 🤖")
         self.on_message_sent_callback = on_message_sent_callback
 
         # --- Configuração de Estilo e Fonte ---
