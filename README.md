@@ -92,8 +92,4 @@ A janela da aplicação deverá abrir, e a conversa com o consultor AI será ini
 
 Este projeto foi possível graças aos conhecimentos adquiridos na **Imersão IA 2025 da Alura e Google**. Agradecemos a oportunidade de explorar o desenvolvimento com modelos de IA e agentes.
 
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
 ---
