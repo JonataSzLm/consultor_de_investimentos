@@ -6,3 +6,5 @@ __pycache__/
 .mypy_cache/
 mypy.ini
 complete_investor_data.json
+build/
+dist/
